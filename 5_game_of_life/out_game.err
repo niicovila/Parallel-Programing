@@ -1,0 +1,4 @@
+game_of_life.c: In function ‘main’:
+game_of_life.c:53:16: warning: unused variable ‘stat’ [-Wunused-variable]
+   53 |     MPI_Status stat;
+      |                ^~~~

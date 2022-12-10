@@ -1,0 +1,334 @@
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o
+rm -f *.o a.out
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -c helloworld.c -o helloworld.o 
+mpicc -std=c99 -std=gnu11 -Wall -fopenmp  -lm -o a.out  helloworld.o

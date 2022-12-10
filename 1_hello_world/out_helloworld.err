@@ -1,0 +1,4 @@
+helloworld.c: In function ‘main’:
+helloworld.c:7:21: warning: unused variable ‘len’ [-Wunused-variable]
+    7 |     int rank, size, len;
+      |                     ^~~

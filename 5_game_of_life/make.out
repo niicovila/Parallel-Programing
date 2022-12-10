@@ -1,0 +1,477 @@
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+rm -f *.o a.out
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_lifes.c -o game_of_lifes.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_lifes.c -o game_of_lifes.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_lifes.c -o game_of_lifes.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_lifes.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_lifes.c -o game_of_lifes.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_lifes.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_lifes.c -o game_of_lifes.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_lifes.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
+rm -f *.o a.out
+mpicc -c aux.c -o aux.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -c game_of_life.c -o game_of_life.o -std=c99 -std=gnu11 -Wall -fopenmp -O3 
+mpicc -o a.out  aux.o  game_of_life.o -lm -std=c99 -std=gnu11 -Wall -fopenmp -O3
