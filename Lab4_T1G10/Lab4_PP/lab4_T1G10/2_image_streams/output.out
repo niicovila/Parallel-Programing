@@ -1,0 +1,3 @@
+nvcc -O3 --expt-relaxed-constexpr	 -o imgproc_streams imgproc_streams.cu
+lleo.txt 1920 1214
+Total time: 5.304256
